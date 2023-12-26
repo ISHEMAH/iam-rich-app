@@ -13,7 +13,7 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image:NetworkImage('https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg'),
+            image:AssetImage('images/diamond.png'),
           ),
         ),
       ),
